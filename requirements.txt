@@ -1,2 +1,4 @@
 dagshub
 mlflow
+scikit-learn
+nltk
