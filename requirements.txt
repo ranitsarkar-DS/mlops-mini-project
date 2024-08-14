@@ -2,3 +2,4 @@ dagshub
 mlflow
 scikit-learn
 nltk
+xgboost
